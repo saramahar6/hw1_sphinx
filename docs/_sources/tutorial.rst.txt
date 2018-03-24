@@ -1,0 +1,4 @@
+My Code Tutorial
+================
+
+Simply run $python hw1_mahar_sara.py in the code directory.

@@ -1,0 +1,5 @@
+Auto Generated Documentation
+============================
+.. automodule:: hw1_mahar_sara
+		:members:
+		:undoc-members:
