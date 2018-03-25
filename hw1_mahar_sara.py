@@ -1,7 +1,7 @@
 """
 Created on March, 2018
 
-@author: Diane Woodbridge
+@author: Sara Mahar
 """
 import sys
 import os
